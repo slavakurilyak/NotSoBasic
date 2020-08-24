@@ -8,5 +8,4 @@ We wear clothing to forget about their body, to stay warm and dry. We need the b
 
 ## Contribute
 
-Want to build the future of subscription boxes? Contribute to [NotSoBasic on Github](https://github.com/slavakurilyak/NotSoBasic) or email Slava at [hello@slavakurilyak.com](mailto:hello@slavakurilyak?Subject="NotSoBasic")
-
+Want to build the future of subscription boxes? Contribute to [NotSoBasic on Github](https://github.com/slavakurilyak/NotSoBasic) or email Slava at [hello@slavakurilyak.com](mailto:hello@slavakurilyak?Subject=NotSoBasic)
